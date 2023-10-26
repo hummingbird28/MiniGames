@@ -1,0 +1,4 @@
+requests
+swibots
+pillow
+python-decouple

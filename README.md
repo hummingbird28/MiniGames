@@ -4,7 +4,7 @@
 
 1. **Clone the Repository:**
    ```
-   git clone https://github.com/Switch-Bot-Samples/MiniGames.git
+   git clone https://github.com/hummingbird28/MiniGames
    ```
 
 2. **Install Dependencies:**
